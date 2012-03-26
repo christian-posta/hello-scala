@@ -1,0 +1,4 @@
+this is my
+first file reading example
+that i would like to do
+with scala
